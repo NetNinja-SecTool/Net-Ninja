@@ -26,7 +26,7 @@
 - Scan robots.txt
 - Generate Report in pdf 
 
-# Techonlogies 
+# Technologies 
 
 # Python 3.10
 ![python](https://github.com/NetNinja-SecTool/Net-Ninja/assets/156086963/e24605b5-ee8f-4d8a-871d-9144feb3b9d3)
