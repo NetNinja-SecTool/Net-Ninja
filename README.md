@@ -31,11 +31,9 @@
 # Python 3.10
 ![python](https://github.com/NetNinja-SecTool/Net-Ninja/assets/156086963/e24605b5-ee8f-4d8a-871d-9144feb3b9d3)
 
-# Pycharm
-![pycharm](https://github.com/NetNinja-SecTool/Net-Ninja/assets/156086963/1f0248b2-befc-4461-84a7-991a76b2ef12)
+# Pycharm vs Vscode
+![comobo1](https://github.com/NetNinja-SecTool/Net-Ninja/assets/156086963/6bda01a8-8f33-4d5a-bcaa-5bc15b3ffc7c)
 
-# Vscode 
-![vscode](https://github.com/NetNinja-SecTool/Net-Ninja/assets/156086963/c4c29e4d-d5f5-430c-85a8-03d585bd51d5)
 
 
 # Output 
