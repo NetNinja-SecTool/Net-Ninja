@@ -11,20 +11,26 @@
 - Identify the HTTP method
 - Extract domain
 - Check the IP address
-- Check the IP location
 - Check open ports through the IP address
 - Perform WHOIS lookup
 - Identify potential SQL injection vulnerabilities
 - Identify potential Cross-Site Scripting (XSS) vulnerabilities
 - Check for outdated dependencies
 - Check X-Frame-Options headers
-- Check for clickjacking vulnerabilities
 - Perform directory brute force
-- Check file upload functionality
 - Perform CMS detection (WordPress, Joomla, Drupal)
 - Scan subdomains
 - Scan robots.txt
 - Generate Report in pdf 
+
+# program is still under development, works, and currently supports some vulnerability tests
+
+# Features 
+- IP address Location
+- File upload vulnerabilities
+- clickjacking
+- TLS Information
+
 
 # Technologies 
 
