@@ -23,7 +23,7 @@
 - Scan robots.txt
 - Generate Report in pdf 
 
-# program is still under development, works, and currently supports some vulnerability tests
+Note: The program is still under active development, and additional features are planned for future releases. Some vulnerability tests are currently supported, but more are on the way
 
 # Features 
 - IP address Location
