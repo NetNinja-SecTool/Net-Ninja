@@ -8,10 +8,9 @@ pip install -r requirements.txt
 # beautifulsoup
 # python-docx
 # docx2pdf
-# lxml
 # requests
 # pyOpenSSL
-# ipwhois
+# whois
 # os
 # threading
 # socket
