@@ -34,9 +34,7 @@
 # Pycharm vs Vscode
 ![comobo1](https://github.com/NetNinja-SecTool/Net-Ninja/assets/156086963/6bda01a8-8f33-4d5a-bcaa-5bc15b3ffc7c)
 
-
-
-# Output 
+# Code Output 
 ![output](https://github.com/NetNinja-SecTool/Net-Ninja/assets/156086963/4b7065ad-ecfa-4f58-aff8-632e88f1fd86)
 
 
