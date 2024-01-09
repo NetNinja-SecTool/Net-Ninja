@@ -1,0 +1,29 @@
+pprint: pprint is a module for pretty-printing data structures, providing a more readable and organized format when printing Python objects, especially dictionaries, and lists.
+
+BeautifulSoup: BeautifulSoup is a powerful library for web scraping. It provides Pythonic idioms for iterating, searching, and modifying the parse tree, allowing you to extract and manipulate data from HTML and XML documents.
+
+docx: The python-docx library allows the creation and modification of Microsoft Word (.docx) files in Python. It provides functionality to add paragraphs, styles, tables, and images to Word documents.
+
+whois: The whois library is used for performing WHOIS queries on domain names. It retrieves registration and ownership information about a domain, including details about the domain's registrar and registration dates.
+
+threading: The threading module in Python provides a way to create and manage threads, enabling concurrent execution of tasks. It is used for parallelizing operations that can run independently to improve performance.
+
+urljoin:urljoin is a function from the urllib.parse module that combines a base URL and a relative URL to create a complete, absolute URL. It's useful for resolving URLs consistently and correctly.
+
+sys: The sys module provides access to some variables used or maintained by the Python interpreter and functions that interact with the interpreter. It's commonly used for command-line arguments and interacting with the Python runtime environment.
+
+Document (python-docx): The Document class from the python-docx library represents a Word document. It provides methods to add content like paragraphs, tables, and images, making it easy to create or modify Word documents programmatically.
+
+docx2pdf:docx2pdf is a Python library that facilitates the conversion of Microsoft Word (.docx) files to PDF format. It simplifies the process of converting Word documents to a more widely compatible format.
+
+web browser: The web browser module allows Python scripts to open a web browser to a specified URL or file. It provides a high-level interface for displaying web-based documents to users.
+
+os: The os module provides a way to interact with the operating system, offering functions for working with files, and directories, and executing system commands.
+
+requests: requests is a popular Python library for making HTTP requests. It simplifies the process of sending HTTP requests and handling responses, making it easier to work with web APIs and retrieve data from the internet.
+
+SSL: The SSL module provides access to the SSL/TLS cryptographic protocols, allowing secure communication over the internet. It includes functions for creating SSL/TLS connections and configuring security options.
+
+socket: The socket module provides low-level networking functionality in Python, allowing the creation of network sockets for communication between processes over a network.
+
+urllib.parse: The urllib.parse module includes various functions to parse and manipulate URLs. It is commonly used for URL encoding, decoding, and joining to ensure correct and consistent URL handling in Python.
